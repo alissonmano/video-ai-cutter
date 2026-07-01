@@ -1,0 +1,9 @@
+*.mp4
+*.mkv
+*.avi
+Cortes_Prontos_IA/
+timestamps_cache.json
+modelo_whisper/
+venv/
+.venv/
+__pycache__/
